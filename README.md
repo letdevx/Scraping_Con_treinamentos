@@ -11,8 +11,8 @@ O objetivo deste projeto é demonstrar como realizar web scraping de forma efici
 - Bibliotecas: Scrapy
 
 ## Instalação
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
-2. Navegue para o diretório do projeto: `cd seu-projeto`
+1. Clone este repositório: `git clone https://github.com/letdevx/Scraping_one_cursos.git`
+2. Navegue para o diretório do projeto: `cd Scraping_one_cursos`
 3. Instale as dependências: `pip install -r requirements.txt`
 
 ## Uso
