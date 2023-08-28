@@ -15,8 +15,8 @@ O objetivo deste projeto é demonstrar como realizar web scraping de forma efici
 2. Navegue para o diretório do projeto: `cd Scraping_Con_treinamentos`
 
 ## Uso
-1. Execute o script de web scraping: `python web_scraping.py`
-2. Os dados coletados serão armazenados no arquivo `dados_coletados.csv`.
+1. Execute o script de web scraping: `python main.py`
+2. Os dados coletados serão armazenados no arquivo `results/contreinamentos_{time}.csv`.
 
 ## Estrutura do Projeto
 seu-projeto/</br>
@@ -30,12 +30,12 @@ screenshot.png
 
 
 ## Exemplo de Resultado
-Aqui está um exemplo dos dados coletados e armazenados no arquivo `dados_coletados.csv`:
+Aqui está um exemplo dos dados coletados e armazenados no arquivo `contreinamentos2023-08-16T16-54-10.csv` (o nome do arquivo muda conforme a data e horario em que ele foi gerado):
 
-| Título do Artigo | Autor       | Data       |
-|------------------|-------------|------------|
-| Como Fazer XYZ   | João Silva  | 2023-08-25 |
-| Guia de ABC      | Maria Santos| 2023-08-26 |
+| Empresa      | Curso                                              | URL                                                             | Professor | Data                       | Local   | Carga Horária | Valor       |
+|--------------|----------------------------------------------------|-----------------------------------------------------------------|-----------|----------------------------|---------|---------------|-------------|
+| Con Treinamentos    | Treinamento de Cadastradores Parciais do SIAPE.   | https://onecursos.com.br/course/curso-online-treinamento-de-cadastradores-parciais-do-siape |  João da Silva         | 21/08/2023 a 25/08/2023    | online  | 20 horas      | R$ 2.290,00 |
+
 
 ## Contribuição
 Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga os passos abaixo:
