@@ -1,4 +1,4 @@
-# Projeto de Web Scraping One cursos
+# Projeto de Web Scraping Con treinamentos
 
 ## Descrição
 Este projeto consiste em criar um script de web scraping para coletar informações de um site específico.
@@ -11,9 +11,8 @@ O objetivo deste projeto é demonstrar como realizar web scraping de forma efici
 - Bibliotecas: Scrapy
 
 ## Instalação
-1. Clone este repositório: `git clone https://github.com/letdevx/Scraping_one_cursos.git`
-2. Navegue para o diretório do projeto: `cd Scraping_one_cursos`
-3. Instale as dependências: `pip install -r requirements.txt`
+1. Clone este repositório: `git clone https://github.com/letdevx/Scraping_Con_treinamentos.git`
+2. Navegue para o diretório do projeto: `cd Scraping_Con_treinamentos`
 
 ## Uso
 1. Execute o script de web scraping: `python web_scraping.py`
