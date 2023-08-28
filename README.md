@@ -1,4 +1,4 @@
-# Projeto de Web Scraping One cursos
+# Projeto de Web Scraping Con treinamentos
 
 ## Descrição
 Este projeto consiste em criar um script de web scraping para coletar informações de um site específico.
